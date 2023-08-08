@@ -1,7 +1,7 @@
 {
-  "name": "dst-swap",
+  "name": "dsf-swap",
   "version": "0.1.0",
-  "description": "An Instant DST Swap App",
+  "description": "An Instant DSF Private Swap App",
   "author": "rashdan.ibrahim@digital-self.com",
   "dependencies": {
     "@truffle/hdwallet-provider": "1.2.2",
